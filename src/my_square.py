@@ -8,6 +8,7 @@ def my_square (y):
 print (my_square (42))
 
 def my_square2 (x):
+	# used * operator
 	return (x * x)
 
 print (my_square2 (42))
