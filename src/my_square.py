@@ -1,8 +1,8 @@
 # Find square of a number
 
-def my_square (x):
+def my_square (y):
 	# compute square of x
 	# uses ** operator
-	return (x ** 2)
+	return (y ** 2)
 	
-print (my_square(5))
+print (my_square(42))
