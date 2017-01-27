@@ -1,4 +1,4 @@
 # Documentation
 
-This folder contains documentationor manuscripts realted to this project
+This folder contains documentation or manuscripts realted to this project
 
